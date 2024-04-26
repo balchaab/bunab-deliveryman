@@ -1,7 +1,7 @@
-import 'package:stackfood_multivendor_driver/common/models/response_model.dart';
-import 'package:stackfood_multivendor_driver/feature/auth/domain/repositories/forgot_password_repository_interface.dart';
-import 'package:stackfood_multivendor_driver/feature/auth/domain/services/forgot_password_service_interface.dart';
-import 'package:stackfood_multivendor_driver/feature/profile/domain/models/profile_model.dart';
+import 'package:BUNAB_Delivery_Driver/common/models/response_model.dart';
+import 'package:BUNAB_Delivery_Driver/feature/auth/domain/repositories/forgot_password_repository_interface.dart';
+import 'package:BUNAB_Delivery_Driver/feature/auth/domain/services/forgot_password_service_interface.dart';
+import 'package:BUNAB_Delivery_Driver/feature/profile/domain/models/profile_model.dart';
 
 class ForgotPasswordService implements ForgotPasswordServiceInterface {
   final ForgotPasswordRepositoryInterface forgotPasswordRepositoryInterface;

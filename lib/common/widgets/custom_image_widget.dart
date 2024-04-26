@@ -1,4 +1,4 @@
-import 'package:stackfood_multivendor_driver/util/images.dart';
+import 'package:BUNAB_Delivery_Driver/util/images.dart';
 import 'package:flutter/cupertino.dart';
 
 class CustomImageWidget extends StatelessWidget {

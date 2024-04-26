@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor_driver/api/api_client.dart';
-import 'package:stackfood_multivendor_driver/interface/repository_interface.dart';
+import 'package:BUNAB_Delivery_Driver/api/api_client.dart';
+import 'package:BUNAB_Delivery_Driver/interface/repository_interface.dart';
 
 abstract class AuthRepositoryInterface implements RepositoryInterface {
   Future<dynamic> login(String phone, String password);

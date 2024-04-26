@@ -1,4 +1,4 @@
-import 'package:stackfood_multivendor_driver/feature/auth/domain/models/zone_response_model.dart';
+import 'package:BUNAB_Delivery_Driver/feature/auth/domain/models/zone_response_model.dart';
 
 class AddressModel {
   int? id;

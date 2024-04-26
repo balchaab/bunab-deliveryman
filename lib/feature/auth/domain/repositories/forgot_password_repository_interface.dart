@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor_driver/feature/profile/domain/models/profile_model.dart';
-import 'package:stackfood_multivendor_driver/interface/repository_interface.dart';
+import 'package:BUNAB_Delivery_Driver/feature/profile/domain/models/profile_model.dart';
+import 'package:BUNAB_Delivery_Driver/interface/repository_interface.dart';
 
 abstract class ForgotPasswordRepositoryInterface implements RepositoryInterface {
   Future<dynamic> changePassword(ProfileModel userInfoModel, String password);

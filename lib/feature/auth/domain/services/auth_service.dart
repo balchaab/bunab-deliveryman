@@ -2,12 +2,12 @@ import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:stackfood_multivendor_driver/common/models/config_model.dart';
-import 'package:stackfood_multivendor_driver/common/widgets/custom_snackbar_widget.dart';
-import 'package:stackfood_multivendor_driver/api/api_client.dart';
-import 'package:stackfood_multivendor_driver/feature/auth/domain/models/vehicle_model.dart';
-import 'package:stackfood_multivendor_driver/feature/auth/domain/repositories/auth_repository_interface.dart';
-import 'package:stackfood_multivendor_driver/feature/auth/domain/services/auth_service_interface.dart';
+import 'package:BUNAB_Delivery_Driver/common/models/config_model.dart';
+import 'package:BUNAB_Delivery_Driver/common/widgets/custom_snackbar_widget.dart';
+import 'package:BUNAB_Delivery_Driver/api/api_client.dart';
+import 'package:BUNAB_Delivery_Driver/feature/auth/domain/models/vehicle_model.dart';
+import 'package:BUNAB_Delivery_Driver/feature/auth/domain/repositories/auth_repository_interface.dart';
+import 'package:BUNAB_Delivery_Driver/feature/auth/domain/services/auth_service_interface.dart';
 
 class AuthService implements AuthServiceInterface {
   final AuthRepositoryInterface authRepositoryInterface;

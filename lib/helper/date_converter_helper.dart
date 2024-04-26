@@ -1,4 +1,4 @@
-import 'package:stackfood_multivendor_driver/feature/splash/controllers/splash_controller.dart';
+import 'package:BUNAB_Delivery_Driver/feature/splash/controllers/splash_controller.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 

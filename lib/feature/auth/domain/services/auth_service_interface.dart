@@ -1,9 +1,9 @@
 import 'package:file_picker/file_picker.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:stackfood_multivendor_driver/common/models/config_model.dart';
-import 'package:stackfood_multivendor_driver/api/api_client.dart';
-import 'package:stackfood_multivendor_driver/feature/auth/domain/models/vehicle_model.dart';
+import 'package:BUNAB_Delivery_Driver/common/models/config_model.dart';
+import 'package:BUNAB_Delivery_Driver/api/api_client.dart';
+import 'package:BUNAB_Delivery_Driver/feature/auth/domain/models/vehicle_model.dart';
 
 abstract class AuthServiceInterface {
   Future<dynamic> login(String phone, String password);

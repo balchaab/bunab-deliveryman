@@ -1,10 +1,10 @@
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:stackfood_multivendor_driver/common/models/response_model.dart';
-import 'package:stackfood_multivendor_driver/api/api_client.dart';
-import 'package:stackfood_multivendor_driver/feature/auth/domain/repositories/forgot_password_repository_interface.dart';
-import 'package:stackfood_multivendor_driver/feature/profile/domain/models/profile_model.dart';
-import 'package:stackfood_multivendor_driver/util/app_constants.dart';
+import 'package:BUNAB_Delivery_Driver/common/models/response_model.dart';
+import 'package:BUNAB_Delivery_Driver/api/api_client.dart';
+import 'package:BUNAB_Delivery_Driver/feature/auth/domain/repositories/forgot_password_repository_interface.dart';
+import 'package:BUNAB_Delivery_Driver/feature/profile/domain/models/profile_model.dart';
+import 'package:BUNAB_Delivery_Driver/util/app_constants.dart';
 
 class ForgotPasswordRepository implements ForgotPasswordRepositoryInterface {
   final ApiClient apiClient;

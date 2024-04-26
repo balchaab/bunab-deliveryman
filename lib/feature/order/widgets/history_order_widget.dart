@@ -1,11 +1,11 @@
-import 'package:stackfood_multivendor_driver/feature/order/screens/order_details_screen.dart';
-import 'package:stackfood_multivendor_driver/feature/splash/controllers/splash_controller.dart';
-import 'package:stackfood_multivendor_driver/feature/order/domain/models/order_model.dart';
-import 'package:stackfood_multivendor_driver/helper/date_converter_helper.dart';
-import 'package:stackfood_multivendor_driver/helper/route_helper.dart';
-import 'package:stackfood_multivendor_driver/util/dimensions.dart';
-import 'package:stackfood_multivendor_driver/util/images.dart';
-import 'package:stackfood_multivendor_driver/util/styles.dart';
+import 'package:BUNAB_Delivery_Driver/feature/order/screens/order_details_screen.dart';
+import 'package:BUNAB_Delivery_Driver/feature/splash/controllers/splash_controller.dart';
+import 'package:BUNAB_Delivery_Driver/feature/order/domain/models/order_model.dart';
+import 'package:BUNAB_Delivery_Driver/helper/date_converter_helper.dart';
+import 'package:BUNAB_Delivery_Driver/helper/route_helper.dart';
+import 'package:BUNAB_Delivery_Driver/util/dimensions.dart';
+import 'package:BUNAB_Delivery_Driver/util/images.dart';
+import 'package:BUNAB_Delivery_Driver/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

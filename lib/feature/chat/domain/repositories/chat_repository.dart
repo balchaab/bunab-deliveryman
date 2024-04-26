@@ -1,10 +1,10 @@
-import 'package:stackfood_multivendor_driver/api/api_client.dart';
-import 'package:stackfood_multivendor_driver/feature/chat/domain/models/conversation_model.dart';
-import 'package:stackfood_multivendor_driver/feature/chat/domain/repositories/chat_repository_interface.dart';
-import 'package:stackfood_multivendor_driver/util/app_constants.dart';
+import 'package:BUNAB_Delivery_Driver/api/api_client.dart';
+import 'package:BUNAB_Delivery_Driver/feature/chat/domain/models/conversation_model.dart';
+import 'package:BUNAB_Delivery_Driver/feature/chat/domain/repositories/chat_repository_interface.dart';
+import 'package:BUNAB_Delivery_Driver/util/app_constants.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:stackfood_multivendor_driver/helper/user_type_helper.dart';
+import 'package:BUNAB_Delivery_Driver/helper/user_type_helper.dart';
 import 'dart:async';
 
 class ChatRepository implements ChatRepositoryInterface {

@@ -1,6 +1,6 @@
 import 'package:image_picker/image_picker.dart';
-import 'package:stackfood_multivendor_driver/api/api_client.dart';
-import 'package:stackfood_multivendor_driver/helper/user_type_helper.dart';
+import 'package:BUNAB_Delivery_Driver/api/api_client.dart';
+import 'package:BUNAB_Delivery_Driver/helper/user_type_helper.dart';
 
 abstract class ChatServiceInterface {
   Future<dynamic> getConversationList(int offset);

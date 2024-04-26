@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor_driver/util/dimensions.dart';
-import 'package:stackfood_multivendor_driver/util/images.dart';
+import 'package:BUNAB_Delivery_Driver/util/dimensions.dart';
+import 'package:BUNAB_Delivery_Driver/util/images.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';

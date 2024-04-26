@@ -1,5 +1,5 @@
-import 'package:stackfood_multivendor_driver/feature/splash/domain/services/splash_service_interface.dart';
-import 'package:stackfood_multivendor_driver/common/models/config_model.dart';
+import 'package:BUNAB_Delivery_Driver/feature/splash/domain/services/splash_service_interface.dart';
+import 'package:BUNAB_Delivery_Driver/common/models/config_model.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 

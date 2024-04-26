@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:stackfood_multivendor_driver/common/widgets/custom_dropdown_widget.dart';
-import 'package:stackfood_multivendor_driver/feature/disbursements/domain/models/withdraw_method_model.dart';
+import 'package:BUNAB_Delivery_Driver/common/widgets/custom_dropdown_widget.dart';
+import 'package:BUNAB_Delivery_Driver/feature/disbursements/domain/models/withdraw_method_model.dart';
 
 abstract class DisbursementServiceInterface {
   Future<dynamic> addWithdraw(Map<String?, String> data);

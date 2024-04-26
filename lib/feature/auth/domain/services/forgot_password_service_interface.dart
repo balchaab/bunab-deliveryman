@@ -1,4 +1,4 @@
-import 'package:stackfood_multivendor_driver/feature/profile/domain/models/profile_model.dart';
+import 'package:BUNAB_Delivery_Driver/feature/profile/domain/models/profile_model.dart';
 
 abstract class ForgotPasswordServiceInterface {
   Future<dynamic> changePassword(ProfileModel userInfoModel, String password);

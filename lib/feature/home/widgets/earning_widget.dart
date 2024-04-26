@@ -1,6 +1,6 @@
-import 'package:stackfood_multivendor_driver/helper/price_converter_helper.dart';
-import 'package:stackfood_multivendor_driver/util/dimensions.dart';
-import 'package:stackfood_multivendor_driver/util/styles.dart';
+import 'package:BUNAB_Delivery_Driver/helper/price_converter_helper.dart';
+import 'package:BUNAB_Delivery_Driver/util/dimensions.dart';
+import 'package:BUNAB_Delivery_Driver/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';
 

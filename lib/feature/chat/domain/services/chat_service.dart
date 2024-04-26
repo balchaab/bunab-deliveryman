@@ -1,9 +1,9 @@
 import 'package:image_picker/image_picker.dart';
-import 'package:stackfood_multivendor_driver/api/api_client.dart';
-import 'package:stackfood_multivendor_driver/feature/chat/domain/models/conversation_model.dart';
-import 'package:stackfood_multivendor_driver/feature/chat/domain/repositories/chat_repository_interface.dart';
-import 'package:stackfood_multivendor_driver/feature/chat/domain/services/chat_service_interface.dart';
-import 'package:stackfood_multivendor_driver/helper/user_type_helper.dart';
+import 'package:BUNAB_Delivery_Driver/api/api_client.dart';
+import 'package:BUNAB_Delivery_Driver/feature/chat/domain/models/conversation_model.dart';
+import 'package:BUNAB_Delivery_Driver/feature/chat/domain/repositories/chat_repository_interface.dart';
+import 'package:BUNAB_Delivery_Driver/feature/chat/domain/services/chat_service_interface.dart';
+import 'package:BUNAB_Delivery_Driver/helper/user_type_helper.dart';
 import 'package:get/get.dart';
 
 class ChatService implements ChatServiceInterface {

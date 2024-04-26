@@ -1,12 +1,12 @@
-import 'package:stackfood_multivendor_driver/common/models/response_model.dart';
-import 'package:stackfood_multivendor_driver/feature/profile/domain/models/profile_model.dart';
-import 'package:stackfood_multivendor_driver/feature/profile/domain/models/record_location_body.dart';
-import 'package:stackfood_multivendor_driver/feature/profile/domain/models/shift_model.dart';
-import 'package:stackfood_multivendor_driver/feature/profile/domain/repositories/profile_repository_interface.dart';
-import 'package:stackfood_multivendor_driver/feature/profile/domain/services/profile_service_interface.dart';
+import 'package:BUNAB_Delivery_Driver/common/models/response_model.dart';
+import 'package:BUNAB_Delivery_Driver/feature/profile/domain/models/profile_model.dart';
+import 'package:BUNAB_Delivery_Driver/feature/profile/domain/models/record_location_body.dart';
+import 'package:BUNAB_Delivery_Driver/feature/profile/domain/models/shift_model.dart';
+import 'package:BUNAB_Delivery_Driver/feature/profile/domain/repositories/profile_repository_interface.dart';
+import 'package:BUNAB_Delivery_Driver/feature/profile/domain/services/profile_service_interface.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:stackfood_multivendor_driver/common/widgets/custom_alert_dialog_widget.dart';
+import 'package:BUNAB_Delivery_Driver/common/widgets/custom_alert_dialog_widget.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:geocoding/geocoding.dart' as geo_coding;
 

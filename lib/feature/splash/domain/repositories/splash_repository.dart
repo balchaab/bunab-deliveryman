@@ -1,7 +1,7 @@
-import 'package:stackfood_multivendor_driver/common/models/config_model.dart';
-import 'package:stackfood_multivendor_driver/api/api_client.dart';
-import 'package:stackfood_multivendor_driver/feature/splash/domain/repositories/splash_repository_interface.dart';
-import 'package:stackfood_multivendor_driver/util/app_constants.dart';
+import 'package:BUNAB_Delivery_Driver/common/models/config_model.dart';
+import 'package:BUNAB_Delivery_Driver/api/api_client.dart';
+import 'package:BUNAB_Delivery_Driver/feature/splash/domain/repositories/splash_repository_interface.dart';
+import 'package:BUNAB_Delivery_Driver/util/app_constants.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

@@ -1,11 +1,12 @@
-import 'package:stackfood_multivendor_driver/feature/language/domain/models/language_model.dart';
-import 'package:stackfood_multivendor_driver/util/images.dart';
+import 'package:BUNAB_Delivery_Driver/feature/language/domain/models/language_model.dart';
+import 'package:BUNAB_Delivery_Driver/util/images.dart';
 
 class AppConstants {
-  static const String appName = 'StackFood Delivery';
+  static const String appName = 'BUNAB_Delivery_Driver';
   static const double appVersion = 7.3;
+   static const String baseUrl = 'https://delivery.bunab7374.com';
 
-  static const String baseUrl = 'https://stackfood-admin.6amtech.com';
+  //static const String baseUrl = 'https://stackfood-admin.6amtech.com';
   static const String configUri = '/api/v1/config';
   static const String forgerPasswordUri = '/api/v1/auth/delivery-man/forgot-password';
   static const String verifyTokenUri = '/api/v1/auth/delivery-man/verify-token';
@@ -52,7 +53,7 @@ class AppConstants {
 
   // Shared Key
   static const String theme = 'theme';
-  static const String token = 'stackfood_multivendor_driver_token';
+  static const String token = 'BUNAB_Delivery_Driver_token';
   static const String countryCode = 'country_code';
   static const String languageCode = 'language_code';
   static const String userPassword = 'user_password';

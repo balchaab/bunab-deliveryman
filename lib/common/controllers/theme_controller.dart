@@ -1,4 +1,4 @@
-import 'package:stackfood_multivendor_driver/util/app_constants.dart';
+import 'package:BUNAB_Delivery_Driver/util/app_constants.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
